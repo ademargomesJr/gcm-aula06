@@ -1,14 +1,5 @@
-# Aula 6 DER - GCM
+# Aula 7 - GCM
 
-Ferramentas de Controle de Versão 
-
-* RCV
-* PERFORCE
-* CVS
-* SOURCE SAFE
-* BAZAAR
-* CLEAR CASE
-* SVN
-* MERCURIAL
-* GITHUB 
-* VISUAL STUDIO TEAM SERVICES
+Velozes e Furiosos 8
+O poderoso chefinho
+Logan
