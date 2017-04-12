@@ -8,5 +8,6 @@ Ferramentas de Controle de Versão
 * CLEAR CASE
 * SVN
 * MERCURIAL
+* PERFORCE
 * GITHUB 
 * BITBUCKET
