@@ -7,5 +7,6 @@ Ferramentas de Controle de Versão
 * SOURCE SAFE 
 * SVN
 * MERCURIAL
+* PERFORCE
 * GITHUB 
 * BITBUCKET
